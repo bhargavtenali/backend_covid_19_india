@@ -214,7 +214,3 @@ Returns an object containing the state name of a district based on the district 
 <br/>
 
 Use `npm install` to install the packages.
-
-**Export the express instance using the default export syntax.**
-
-**Use Common JS module syntax.**
